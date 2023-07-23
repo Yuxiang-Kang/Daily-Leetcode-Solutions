@@ -1,0 +1,8 @@
+1. list --> string
+result = " ".join(my_list)
+
+2. To copy a list, do not use a = b. Instead, use a = b[:].
+   Otherwise, b will change with a.
+
+3. To create an arithmetic progression, use range().
+   range(5,-1,-1) = [5,4,3,2,1,0]
