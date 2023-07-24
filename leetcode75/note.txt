@@ -12,3 +12,5 @@ result = " ".join(list)
 
 5. To break a string sentence into word strings, use "split()".
     string.split()
+
+6. To get an infinity value, use "float('inf')".
