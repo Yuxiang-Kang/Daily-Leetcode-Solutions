@@ -18,3 +18,7 @@ result = " ".join(list)
 
 7. To sort a list to increasing order, use "list.sort()".
    Or use "sorted(list)" to storage new sorted list.
+
+8. To present infinity, use "float('inf')"
+
+9. To get a faster program, don't use append, use "="
